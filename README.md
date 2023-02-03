@@ -1,4 +1,4 @@
-# Mock Cafe Website!
+# Mock Cafe React Website!
 
 Mock site for a café that displays a menu of hot and iced coffees!
 
